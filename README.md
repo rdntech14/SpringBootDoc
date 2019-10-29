@@ -28,8 +28,8 @@ https://community.microstrategy.com/s/article/KB442386-The-server-time-zone-valu
 
 https://stackoverflow.com/questions/26515700/mysql-jdbc-driver-5-1-33-time-zone-issue
 
-jdbc:mysql://localhost/db?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+`jdbc:mysql://localhost/db?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC`
 
 or
 
-jdbc:mysql://127.0.0.1:3306/test?serverTimezone=UTC
+`jdbc:mysql://127.0.0.1:3306/test?serverTimezone=UTC`
