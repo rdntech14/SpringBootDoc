@@ -13,8 +13,8 @@ or
 
 Below actions worked for me
 
-Run mvn dependency:purge-local-repository to remove all dependencies and force a re-download.
-Then do a mvn clean verify
+`Run mvn dependency:purge-local-repository` to remove all dependencies and force a re-download.
+Then do a `mvn clean verify`
 
 **Issue**
 
