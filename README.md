@@ -1,5 +1,17 @@
 
+## Spring Boot Advantages
 
+* Simplified & version conflict free dependency management through the **starter POMs**. like spring-core.jar, spring-webmvc.jar, spring-web.jar, spring-boot-starter-data-jpa, Spring boot web starter.
+
+* **Dependencies Management** - We can quickly setup and run standalone, web applications and micro services at very less time.
+
+* You can just assemble the jar artifact which comes with an **embedded Tomact**, Jetty or Undertow application server and you are ready to go.
+
+* Spring Boot provides HTTP endpoints to access application internals like detailed metrics, application inner working, health status, etc.
+
+* **Annotation-Based Configuration - No XML based configurations** at all. Very much simplified properties. The beans are initialized, configured and wired automatically.
+
+* The **Spring Initializer** provides a project generator to make you productive with the certain technology stack from the beginning. You can create a skeleton project with web, data access (relational and NoSQL datastores), cloud, or messaging support.
 
 **Issue**
 
