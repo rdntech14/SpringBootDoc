@@ -28,7 +28,7 @@ Below actions worked for me
 `Run mvn dependency:purge-local-repository` to remove all dependencies and force a re-download.
 Then do a `mvn clean verify`
 
-**Issue**
+**Common Issue**
 
 The server time zone value ‘EDT’ is unrecognized or represents more than one time zone.” error appears with MySQL JDBC Driver in MicroStrategy 10.4.x and above
 
